@@ -1,0 +1,57 @@
+W3Schools first 55 tag list
+
+<!--...--> -----Done
+<!DOCTYPE> ------Done
+<a> ----------Done
+<abbr> -------Done
+<address> -----Done
+<area> -------- Done
+<article> ------ Done
+<aside> -------- Done
+<audio> -------- Done
+<b> ------------ Done
+<base>
+<bdi> ----------- Done
+<bdo> ---------- Done
+<blockqoute> ---- Done
+<body> ---------- Done
+<br> ----------- Done
+<button> ------- Done
+<canvas>
+<caption> ------ Done
+<cite> --------- Done
+<code> --------- Done
+<col> -------- Done
+<colgroup> ---- Done
+<data> -------- Done
+<datalist> ----- Done
+<dd> ----------- Done
+<del> ---------- Done
+<details> ------ Done
+<dfn> ---------- Done
+<dialog> ------- Done
+<div> ---------- Done
+<dl> ----------- Done
+<dt> ----------- Done
+<em> ----------- Done
+<embed>
+<fieldset> ----- Done
+<figcaption> ---- Done
+<figure> -------- Done
+<footer>-------- Done
+<form> --------- Done
+<h1> to <h6> ------- Done
+<head> ------------- Done
+<header> ----------- Done
+<hr> ------------ Done
+<html> ------------ Done
+<i> ---------------- Done
+<iframe> ----------- Done
+<img> ------------ Done
+<input> ---------- Done
+<ins>
+<kbd> ------------- Done
+<lable> ---------- Done
+<legend> --------- Done
+<li> ------------- Done
+<link>
